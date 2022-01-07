@@ -1,0 +1,13 @@
+{
+  "name": "AirdropSOL",
+  "version": "1.0.0",
+  "description": "Airdrop Program on Solana",
+  "main": "index.js",
+  "repository": "https://github.com/progmatic-99/AirdropSOL",
+  "author": "progmatic-99",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
